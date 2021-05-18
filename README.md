@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahome Gichuki</h1>
-<h3 align="center">A passionate JavaScript|Python developer and Data Scientist from Kenya</h3>
+<h3 align="center">A passionate JavaScript|Python developer and Data Scientist</h3>
 
 - 🔭 I’m currently working on [ellnes.com](https://ellnes.com/)
 
