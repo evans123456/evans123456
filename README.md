@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://wahomegichuki.vercel.app/](https://wahomegichuki.vercel.app/)
 
-- ⚡ Fun fact **we're soaring, flyiiing, theres not a star in heaven that we cant reach...if we tryyieeen, ooh we breaking free... (if you know the song)**
+- ⚡ Fun fact **:D**
 
 - 🔭 checkout my 2021 github contributions in 3d here [2021](https://skyline.github.com/evans123456/2021)
 
