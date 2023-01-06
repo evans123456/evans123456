@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- 👨‍💻 Some of my projects are available at [https://wahomegichukicom](https://wahomegichuki.com/)
+- 👨‍💻 Some of my projects are available at [https://wahomegichuki.com](https://wahomegichuki.com/)
 
 - 💬 Ask me about **anything really**
 
 - 📫 How to reach me **evansgichuki656@gmail.com**
 
-- 📄 Know about my experiences  [https://wahomegichukicom](https://wahomegichuki.com/)
+- 📄 Know about my experiences  [https://wahomegichuki.com](https://wahomegichuki.com/)
 
 - ⚡ Fun fact **:D**
 
