@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data science and ML**
 
-- 👨‍💻 All of my projects are available at [https://wahomegichuki.vercel.app/](https://wahomegichuki.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://wahomegichukicom](https://wahomegichuki.com/)
 
 - 💬 Ask me about **anything really**
 
 - 📫 How to reach me **evansgichuki656@gmail.com**
 
-- 📄 Know about my experiences [https://wahomegichuki.vercel.app/](https://wahomegichuki.vercel.app/)
+- 📄 Know about my experiences  [https://wahomegichukicom](https://wahomegichuki.com/)
 
 - ⚡ Fun fact **:D**
 
