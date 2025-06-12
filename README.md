@@ -9,13 +9,11 @@
 
 - 💬 Ask me about **anything really**
 
-- 📫 How to reach me **evansgichuki656@gmail.com**
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahomegichuki/) 
+
 
 - 📄 Know about my experiences  [https://wahomegichuki.com](https://wahomegichuki.com/)
 
-- ⚡ Fun fact **i like cheese, only on Pizza**
-
-- 🔭 checkout my 2021 github contributions in 3d here [2021](https://skyline.github.com/evans123456/2021)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahomegichuki/) 
