@@ -3,7 +3,6 @@
 
 <!-- - 🔭 I’m currently working on [ellnes.com](https://ellnes.com/) -->
 
-🌱 I’m currently working as a software engineer at Mclaren Applied<br>
 
 - 👨‍💻 Some of my projects are available at [https://wahomegichuki.com](https://wahomegichuki.com/)
 
