@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wahome Gichuki</h1>
-<h3 align="center">A passionate JavaScript|Python|Cloud developer and Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm WG</h1>
+<h3 align="center">A passionate Tech scientist</h3>
 
 <!-- - 🔭 I’m currently working on [ellnes.com](https://ellnes.com/) -->
 
