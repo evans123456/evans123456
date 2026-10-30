@@ -3,9 +3,6 @@
 
 <!-- - 🔭 I’m currently working on [ellnes.com](https://ellnes.com/) -->
 
-
-- 👨‍💻 Some of my projects are available at [https://wahomegichuki.com](https://wahomegichuki.com/)
-
 - 💬 Ask me about **anything really**
 
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahomegichuki/) 
